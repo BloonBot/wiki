@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helpau",
+			"Kareyac",
+			"Megakott",
+			"Okras",
+			"WerySkok"
+		]
+	},
+	"skinname-cosmos": "Cosmos",
+	"cosmos-desc": "Cosmos - это скин, созданный на основе скина Oasis ФЭНДОМа. Предназначены для улучшения их дизайна и обеспечения эффективного скина MediaWiki для участников, не являющихся пользователями ФЭНДОМа, или для пользователей, выходящих из ФЭНДОМа.",
+	"cosmos-anonymous": "Аноним",
+	"cosmos-counter-label": "{{PLURAL:$1|статья|статьи|статей}}",
+	"cosmos-createpage-header": "Создать новую статью",
+	"cosmos-createpage-input-label": "Введите сюда заголовок страницы:",
+	"cosmos-createpage-next": "Далее",
+	"cosmos-createpage-dialoge-text": "У нас есть <b>$1</b> {{PLURAL:$1|статья|статьи|статей}} в $2. Введите название статьи ниже или нажмите на одно из названий ниже и начните писать!",
+	"cosmos-personaltools-userpage": "Страница участника",
+	"cosmos-personaltools-usertalk": "Обсуждение участника",
+	"cosmos-personaltools-anontalk": "Моё обсуждение",
+	"cosmos-action-addsection": "Новая тема",
+	"cosmos-action-cancel": "Отмена",
+	"cosmos-action-backtopage": "Вернуться к $1",
+	"cosmos-action-back": "Назад",
+	"cosmos-add-new-image": "Добавить новое изображение",
+	"cosmos-add-new-video": "Добавить новое видео",
+	"cosmos-add-new-page-title": "Создать страницу",
+	"cosmos-add-new-page-text": "Добавить",
+	"cosmos-anon-add-new-page-text": "Создать страницу",
+	"cosmos-explore": "Исследовать",
+	"cosmos-newfiles": "Новые файлы",
+	"prefs-cosmos-responsiveness": "Адаптивность для мобильных устройств для Cosmos",
+	"cosmos-mobile-preference": "Включить адаптивность для темы оформления Cosmos",
+	"cosmos-user-blocked": "Заблокирован",
+	"cosmos-themedesigner-help-3": "Основной цвет фона.",
+	"cosmos-themedesigner-help-6": "Цвет ссылок.",
+	"cosmos-themedesigner-help-7": "Цвет фона нижнего колонтитула.",
+	"cosmos-themedesigner-help-8": "Цвет фона панели инструментов",
+	"cosmos-themedesigner-help-11": "Основное фоновое изображение.",
+	"cosmos-themedesigner-help-13": "Размер основного фона"
+}

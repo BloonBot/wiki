@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjh21",
+			"Universal Omega"
+		]
+	},
+	"skinname-cosmos": "Cosmos",
+	"cosmos-desc": "Cosmos is a skin designed and based off Fandom's Oasis skin. Designed to improve upon their design, and provide an efficient MediaWiki skin for non-Fandom users, or for users transitioning out of Fandom.",
+	"cosmos-anonymous": "Anonymous",
+	"cosmos-counter-label": "{{PLURAL:$1|Article|Articles}}",
+	"cosmos-createpage-header": "Create a new article",
+	"cosmos-createpage-input-label": "Write your page title here:",
+	"cosmos-createpage-next": "Next",
+	"cosmos-createpage-dialoge-text": "We currently have <b>$1</b> {{PLURAL:$1|article|articles}} on $2. Type your article name above or click on one of the titles below and start writing!",
+	"cosmos-personaltools-userpage": "User page",
+	"cosmos-personaltools-usertalk": "User talk",
+	"cosmos-personaltools-anontalk": "My talk",
+	"cosmos-action-addsection": "New topic",
+	"cosmos-action-cancel": "Cancel",
+	"cosmos-action-backtopage": "Back to $1",
+	"cosmos-action-back": "Back",
+	"cosmos-add-new-image": "Add New Image",
+	"cosmos-add-new-video": "Add New Video",
+	"cosmos-add-new-page-title": "Add New Page",
+	"cosmos-add-new-page-text": "Add",
+	"cosmos-anon-add-new-page-text": "Add new page",
+	"cosmos-explore": "Explore",
+	"cosmos-newfiles": "New files",
+	"prefs-cosmos-responsiveness": "Mobile responsiveness for Cosmos",
+	"cosmos-mobile-preference": "Enable mobile responsive version of the Cosmos skin",
+	"cosmos-user-blocked": "Blocked",
+	"cosmos.css": "/* All CSS here will be loaded for users of the Cosmos skin */",
+	"cosmos.js": "/* All JavaScript here will be loaded for users of the Cosmos skin */"
+}
